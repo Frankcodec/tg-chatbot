@@ -5,7 +5,7 @@ import telebot
 import requests
 
 import openai
-from telegram import Bot, Update, InputFile
+#from telegram import Bot, Update, InputFile
 
 BOT_TOKEN = os.environ.get('BOT_TOKEN')
 
